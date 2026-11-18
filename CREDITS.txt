@@ -1,0 +1,57 @@
+Music: every piece below with its artist and licence (CC0 1.0, or Creative Commons
+Attribution: every CC BY artist is named in the game, Bilgi > Müzik). Built by tool/build_music.py.
+
+file	title	artist	licence	source
+lobby.ogg	Sunset on the beach	Komiku	CC0 1.0	https://archive.org/details/Komiku-Poupis_incredible_adventures
+tower.ogg	Fluidscape	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com
+fallback.ogg	Luminous Rain	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_00.ogg	Cherry Blossom	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_01.ogg	Kalimba Relaxation Music	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_02.ogg	Silver Blue Light	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_03.ogg	Handpan Performance	HECKFRICKER (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/625312/
+floor_04.ogg	Enchanted Journey	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_05.ogg	Ocarinas.wav	clement.bernardeau (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/699229/
+floor_06.ogg	Melodie Victoria	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_07.ogg	ANDANTE.mp3	tubbers (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/178035/
+floor_08.ogg	Lobby Time	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_09.ogg	jasmine.mp3	rivv3t (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/112774/
+floor_10.ogg	Finding Movement	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_11.ogg	Mbira Excerpt.wav	Benboncan (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/62846/
+floor_12.ogg	Island Meet and Greet	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_13.ogg	Harmonica: east top 2023-2 .wav	ainst (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/698365/
+floor_14.ogg	Sheep May Safely Graze	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com
+floor_15.ogg	Todd Barton Shakuhachi Ro Reel	makenoisemusic (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/470651/
+floor_16.ogg	Carefree	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_17.ogg	Half Alive Harpsichord .wav	redz_410 (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/627307/
+floor_18.ogg	Healing	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_19.ogg	Steel Tongue Drum played by Cicada near Lake Michigan	elliotrambach (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/381955/
+floor_20.ogg	Wholesome	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_21.ogg	Kora.wav	nome_diva (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/585284/
+floor_22.ogg	Light Thought var 1	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_23.ogg	Egan's Flute.wav	rawhiteman7 (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/384444/
+floor_24.ogg	Suonatore di Liuto	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_25.ogg	bamboo xylophone.wav	paulotantastico (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/531710/
+floor_26.ogg	Guzheng City	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_27.ogg	Dramatic soundtrack test	BeatArchive (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/417324/
+floor_28.ogg	Errigal	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_29.ogg	TrinityVibrations Jam Sessh.wav	mcthespian (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/684358/
+floor_30.ogg	Divertimento K131	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_31.ogg	Native American Style flute in A	Wood_Flutes (freesound.org)	CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)	https://freesound.org/s/333996/
+floor_32.ogg	Del Rio Bravo	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_33.ogg	Pitched Percussion	bangcorrupt (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/835083/
+floor_34.ogg	Cattails	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_35.ogg	Ueno Shamisen - Japan	RTB45 (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/195521/
+floor_36.ogg	Shenyang	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_37.ogg	coastalmandolin.wav	mooncusser (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/646002/
+floor_38.ogg	Divertissement - Pizzicato	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com
+floor_39.ogg	Rhodes nice	sandib (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/475319/
+floor_40.ogg	Meditation Impromptu 01	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com/music/royalty-free/index.html?isrc=
+floor_41.ogg	Khim (Thai Stringed Instrument)	stomachache (freesound.org)	CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)	https://freesound.org/s/263460/
+floor_42.ogg	Canon in D for Autoharp	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com
+floor_43.ogg	Balkan Kaval solo	EKVelika (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/325111/
+floor_44.ogg	Dhaka	Kevin MacLeod (incompetech.com)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://incompetech.com
+floor_45.ogg	sufi-5.wav	xserra (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/162204/
+floor_46.ogg	Pekin-Univ-Orchestra-4.wav	xserra (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/162113/
+floor_47.ogg	220605_1945_FR_OneManBand.wav	kevp888 (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/637068/
+floor_48.ogg	The Eight Peasants	surrey_film (freesound.org)	CC0 1.0 (public domain)	https://freesound.org/s/162236/
+floor_49.ogg	Zither.wav	juskiddink (freesound.org)	CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)	https://freesound.org/s/78658/
