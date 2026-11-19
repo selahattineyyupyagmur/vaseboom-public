@@ -1,5 +1,5 @@
 Music: every piece below with its artist and licence (CC0 1.0, or Creative Commons
-Attribution: every CC BY artist is named in the game, Bilgi > Müzik). Built by tool/build_music.py.
+Attribution: every CC BY artist is named in the game, About > Licences). Built by tool/build_music.py.
 
 file	title	artist	licence	source
 lobby.ogg	Sunset on the beach	Komiku	CC0 1.0	https://archive.org/details/Komiku-Poupis_incredible_adventures
